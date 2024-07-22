@@ -1,7 +1,9 @@
 # Hello, i'm [Tom Christer!](https://portfoliowebsite-dusky-nine.vercel.app/) 👋
 ## About me
 🌍 **From:** Trondheim, Norway
+
 🏠 **Based in:** Oslo, Norway
+
 Hey, my name is Tom Christer and I'm a Front-End Developer on the way!🚀
 
 - 🌱 I’m currently learning React.js and Tailwind CSS.
