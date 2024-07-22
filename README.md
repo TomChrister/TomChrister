@@ -1,4 +1,5 @@
-## Hello, i'm Tom Christer! 👋
+# Hello, i'm Tom Christer! 👋
+## About me
 
 <!--
 **TomChrister/TomChrister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
