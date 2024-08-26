@@ -17,7 +17,7 @@ Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my re
 
 ## Skills
 - **Languages**  
-  [![My Skills](https://skillicons.dev/icons?i=,html,css,js,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 - **Frameworks & Libraries**  
   [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
@@ -27,6 +27,7 @@ Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my re
 
  ## Connect with me
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tom-christer-sch%C3%B6%C3%B6n-bb8ab1226/)
+ [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tomchrister.dev@gmail.com)
 
 
 
