@@ -16,13 +16,13 @@ Hey, my name is Tom Christer and I'm a Front-End Developer on the way!🚀
 Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my repositories](https://github.com/TomChrister?tab=repositories).
 
 ## Skills
-- **Languages**  
+**Languages**  
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
-- **Frameworks & Libraries**  
+**Frameworks & Libraries**  
   [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 
-- **Tools & Platforms**  
+**Tools & Platforms**  
   [![My Skills](https://skillicons.dev/icons?i=webstorm,github,git,figma,vercel,postman)](https://skillicons.dev)
 
  ## Connect with me
