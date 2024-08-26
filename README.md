@@ -13,7 +13,7 @@ Hey, my name is Tom Christer and I'm a Front-End Developer on the way!🚀
 
 
 ## Projects and work 🚀
-Check out my [portfolio](https://portfoliowebsite-dusky-nine.vercel.app/) and explore [my repositories](https://github.com/TomChrister?tab=repositories).
+Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my repositories](https://github.com/TomChrister?tab=repositories).
 
 ## Skills
 - **Languages**  
@@ -23,6 +23,7 @@ Check out my [portfolio](https://portfoliowebsite-dusky-nine.vercel.app/) and ex
 
 - **Frameworks & Libraries**  
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js] (https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white).
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **Tools & Platforms**  
