@@ -6,7 +6,7 @@
 
 Hey, my name is Tom Christer and I'm a Front-End Developer on the way!🚀
 
-- 🌱 I’m currently learning React.js and Tailwind CSS.
+- 🌱 I’m currently learning Next.js and Tailwind CSS.
 - 🎓 Graduating from Noroff school of technology and digital media
 - 👨‍🏫 Got a bachelors degree as a teacher in high school
 - 📫 How to reach me: [tomchrister.dev@gmail.com](mailto:tomchrister.dev@gmail.com)
@@ -23,7 +23,7 @@ Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my re
   [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 
 - **Tools & Platforms**  
-  [![My Skills](https://skillicons.dev/icons?i=github,git,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vercel)](https://skillicons.dev)
 
  ## Connect with me
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tom-christer-sch%C3%B6%C3%B6n-bb8ab1226/)
