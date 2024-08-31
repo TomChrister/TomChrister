@@ -29,7 +29,7 @@ Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my re
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tom-christer-sch%C3%B6%C3%B6n-bb8ab1226/)
  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tomchrister.dev@gmail.com)
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TomChrister)
 
 <!--
 **TomChrister/TomChrister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
