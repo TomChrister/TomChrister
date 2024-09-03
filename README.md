@@ -20,7 +20,7 @@ Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my re
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 **Frameworks & Libraries**  
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=reactjs,nextjs,tailwind)](https://skillicons.dev)
 
 **Tools & Platforms**  
   [![My Skills](https://skillicons.dev/icons?i=webstorm,github,git,figma,vercel,postman)](https://skillicons.dev)
