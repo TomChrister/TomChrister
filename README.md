@@ -23,8 +23,7 @@ Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my re
   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 **Tools & Platforms**  
-  [![My Skills](https://skillicons.dev/icons?i=webstorm,figma,github,vercel,postman)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,npm,nodejs,vite,jest)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=webstorm,figma,github,vercel,postman,git,npm,nodejs,vite,jest&perline=5)](https://skillicons.dev)
 
  ## Connect with me
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tom-christer-sch%C3%B6%C3%B6n-bb8ab1226/)
