@@ -6,7 +6,7 @@
 
 Hey, my name is Tom Christer and I'm a Front-End Developer on the way!🚀
 
-- 🌱 I’m currently learning Next.js and Tailwind CSS.
+- 🌱 I’m currently learning React/Next.js and Tailwind CSS.
 - 🎓 Graduating from Noroff school of technology and digital media
 - ✏️ I'm teaching kids coding online
 - 👨‍🏫 Got a bachelors degree as a teacher in high school
