@@ -21,7 +21,7 @@ Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my re
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 **Frameworks & Libraries**  
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev)
 
 **Tools & Platforms**  
   [![My Skills](https://skillicons.dev/icons?i=webstorm,figma,github,vercel,postman,npm,nodejs,vite,git,cypress&perline=5)](https://skillicons.dev)
