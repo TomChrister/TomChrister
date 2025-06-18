@@ -14,7 +14,7 @@ Hey, my name is Tom Christer and I'm a Front-End Developer and UX-designer!🚀
 
 
 ## Projects and work 🚀
-Check out my [portfolio](https://tomchrister-dev.vercel.app/) and explore [my repositories](https://github.com/TomChrister?tab=repositories).
+Check out my [portfolio](https://tcs-dev.vercel.app/) and explore [my repositories](https://github.com/TomChrister?tab=repositories).
 
 ## Skills
 **Languages**  
