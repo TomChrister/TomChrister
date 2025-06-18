@@ -4,11 +4,11 @@
 
 🏠 **Based in:** Oslo, Norway
 
-Hey, my name is Tom Christer and I'm a Front-End Developer on the way!🚀
+Hey, my name is Tom Christer and I'm a Front-End Developer and UX-designer!🚀
 
-- 🌱 I’m currently learning React/Next.js and Tailwind CSS.
+- 🌱 I’m currently learning Firbase and databases.
 - 🎓 Graduating from Noroff school of technology and digital media
-- ✏️ I'm teaching kids coding online
+- ✏️ Got my own business at Webloftet.no
 - 👨‍🏫 Got a bachelors degree as a teacher in high school
 - 📫 How to reach me: [tomchrister.dev@gmail.com](mailto:tomchrister.dev@gmail.com)
 
