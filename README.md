@@ -8,7 +8,7 @@ Hey, my name is Tom Christer and I'm a Front-End Developer and UX-designer!🚀
 
 - 🌱 I’m currently learning Firbase and databases.
 - 🎓 Graduating from Noroff school of technology and digital media
-- ✏️ Got my own business at Webloftet.no
+- 💻 Got my own business at Webloftet.no
 - 👨‍🏫 Got a bachelors degree as a teacher in high school
 - 📫 How to reach me: [tomchrister.dev@gmail.com](mailto:tomchrister.dev@gmail.com)
 
